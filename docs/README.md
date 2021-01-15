@@ -13,45 +13,60 @@
 ---
 
 ### 💡 导入教程
-在阅读app-我的-书源管理-网络导入。（大佬的集合随时间而更新 导入地址不变）
+在阅读APP-我的-书源管理-网络导入。
+（大佬的集合随时间而更新 导入地址不变）
 
-
-@不世玄奇 大佬整合的失效书源修复合集，主要是针对芜恙、狼火霸世、关耳等数个大佬之前分享的精选书源中 全失效/半失效 的书源进行修复更新。
+- @不世玄奇 大佬整合的失效书源修复合集，主要是针对芜恙、狼火霸世、关耳等数个大佬之前分享的精选书源中 全失效/半失效 的书源进行修复更新。
 [👉点我一键导入](yuedu://booksource/importonline?src=https://gitee.com/ch4nge/readbook/raw/master/booksources_sx)
 
 - 全网榜单数据：两个择其一导入 源自于同一网站不同排版 不同大佬制作：https://gitee.com/zoeybai/read/raw/Xiaobai/bangdan.json
 
-- Namo（基础精简带净化）：[ 👉点我一键导入](yuedu://booksource/importonline?src=https://gitee.com/namofree/yuedu3/raw/legado3booksource/legado3_booksource_by_Namo.json)
+- Namo（基础精简带净化）：
+[ 👉点我一键导入](yuedu://booksource/importonline?src=https://gitee.com/namofree/yuedu3/raw/legado3booksource/legado3_booksource_by_Namo.json)
 
-- 一介书生（集合150分类准确）：[ 👉点我一键导入](yuedu://booksource/importonline?src=https://gitee.com/YiJieSS/Yuedu/raw/master/bookSource.json)
+- 一介书生（集合150分类准确）：
+[ 👉点我一键导入](yuedu://booksource/importonline?src=https://gitee.com/YiJieSS/Yuedu/raw/master/bookSource.json)
 
-- 一程丶（酷安大佬488源）：[ 👉点我一键导入](yuedu://booksource/importonline?src=https://gitee.com/vpq/codes/ez5qu1ifx260layps3b7981/raw?blob_name=3.0sy.json)
+- 一程丶（酷安大佬488源）：
+[ 👉点我一键导入](yuedu://booksource/importonline?src=https://gitee.com/vpq/codes/ez5qu1ifx260layps3b7981/raw?blob_name=3.0sy.json)
 
-- 狼火霸世（酷安大佬439源）：[ 👉点我一键导入](yuedu://booksource/importonline?src=https://gedoor.github.io/MyBookshelf/bookSource.json)
+- 狼火霸世（酷安大佬439源）：
+[ 👉点我一键导入](yuedu://booksource/importonline?src=https://gedoor.github.io/MyBookshelf/bookSource.json)
 
-- 狼火霸世（酷安大佬1537源）：[ 👉点我一键导入](yuedu://booksource/importonline?src=https://cdn.jsdelivr.net/gh/yeyulingfeng01/yuedu.github.io@1.1/202003.txt)
+- 狼火霸世（酷安大佬1537源）：
+[ 👉点我一键导入](yuedu://booksource/importonline?src=https://cdn.jsdelivr.net/gh/yeyulingfeng01/yuedu.github.io@1.1/202003.txt)
 
-- 狼火霸世（酷安大佬717源）：[ 👉点我一键导入](yuedu://booksource/importonline?src=https://cdn.jsdelivr.net/gh/yeyulingfeng01/yuedu.github.io/yeudu3.0-202005.json)
+- 狼火霸世（酷安大佬717源）：
+[ 👉点我一键导入](yuedu://booksource/importonline?src=https://cdn.jsdelivr.net/gh/yeyulingfeng01/yuedu.github.io/yeudu3.0-202005.json)
 
-- 南笙星辰（八月精简177源）：[ 👉点我一键导入](yuedu://booksource/importonline?src=https://gitee.com/ch4nge/readbook/raw/master/booksoure)
+- 南笙星辰（八月精简177源）：
+[ 👉点我一键导入](yuedu://booksource/importonline?src=https://gitee.com/ch4nge/readbook/raw/master/booksoure)
 
-- 南笙星辰（九月维护177源）：[ 👉点我一键导入](yuedu://booksource/importonline?src=https://gitee.com/ch4nge/readbook/raw/master/booksource9)
+- 南笙星辰（九月维护177源）：
+[ 👉点我一键导入](yuedu://booksource/importonline?src=https://gitee.com/ch4nge/readbook/raw/master/booksource9)
 
-- 关耳大佬（酷安大佬听歌源）：[ 👉点我一键导入](yuedu://booksource/importonline?src=https://gitee.com/zmn1307617161/booksource/raw/master/%E4%B9%A6%E6%BA%90/3%E4%B8%AA%E9%9F%B3%E4%B9%90%E6%BA%90.json)
+- 关耳大佬（酷安大佬听歌源）：
+[ 👉点我一键导入](yuedu://booksource/importonline?src=https://gitee.com/zmn1307617161/booksource/raw/master/%E4%B9%A6%E6%BA%90/3%E4%B8%AA%E9%9F%B3%E4%B9%90%E6%BA%90.json)
 
-- 山高水长(微信圈子整理废卢书源)：[ 👉点我一键导入](yuedu://booksource/importonline?src=https://gitee.com/ch4nge/readbook/raw/master/booksource_fl)
+- 山高水长(微信圈子整理废卢书源)：
+[ 👉点我一键导入](yuedu://booksource/importonline?src=https://gitee.com/ch4nge/readbook/raw/master/booksource_fl)
 
-- 渡边美波（精选优质28源合集）：[ 👉点我一键导入](yuedu://booksource/importonline?src=https://gitee.com/ch4nge/readbook/raw/master/booksource_jx)
+- 渡边美波（精选优质28源合集）：
+[ 👉点我一键导入](yuedu://booksource/importonline?src=https://gitee.com/ch4nge/readbook/raw/master/booksource_jx)
 
-- 狼火霸世（精选优质合集 2.0 3.0都可以用）：[ 👉点我一键导入](yuedu://booksource/importonline?src=https://gitee.com/ch4nge/readbook/raw/master/booksource_lhbs)
+- 狼火霸世（精选优质合集 2.0 3.0都可以用）：
+[ 👉点我一键导入](yuedu://booksource/importonline?src=https://gitee.com/ch4nge/readbook/raw/master/booksource_lhbs)
 
-- 破冰6(有声书源22合集)：[ 👉点我一键导入](yuedu://booksource/importonline?src=https://gitee.com/ch4nge/readbook/raw/master/booksources_ts)
+- 破冰6(有声书源22合集)：
+[ 👉点我一键导入](yuedu://booksource/importonline?src=https://gitee.com/ch4nge/readbook/raw/master/booksources_ts)
 
-- 南笙星辰（2020.12.7更新177源）：[ 👉点我一键导入](yuedu://booksource/importonline?src=https://gitee.com/ch4nge/readbook/raw/master/booksource_177)
+- 南笙星辰（2020.12.7更新177源）：
+[ 👉点我一键导入](yuedu://booksource/importonline?src=https://gitee.com/ch4nge/readbook/raw/master/booksource_177)
 ---
 ### 重点书源
 
-- 不是玄奇（搜索引擎书源）：[ 👉点我一键导入](yuedu://booksource/importonline?src=https://gitee.com/no-mystery/bushixuanqi-quanwangsoushu/raw/master/%E5%85%A8%E7%BD%91%E6%90%9C%E4%B9%A6(%E7%99%BE%E5%BA%A6%E3%80%81%E8%B0%B7%E6%AD%8C%E3%80%81%E5%A4%B8%E5%85%8B).json)
+- 不是玄奇（搜索引擎书源）：
+[ 👉点我一键导入](yuedu://booksource/importonline?src=https://gitee.com/no-mystery/bushixuanqi-quanwangsoushu/raw/master/%E5%85%A8%E7%BD%91%E6%90%9C%E4%B9%A6(%E7%99%BE%E5%BA%A6%E3%80%81%E8%B0%B7%E6%AD%8C%E3%80%81%E5%A4%B8%E5%85%8B).json)
 
 1、把搜索引擎做成书源，借助搜索引擎全网搜书。
 2、支持多种搜索方式(书名#作者$网站、书名$网站、书名#作者、书名、#作者)，具体用法见书源“源注释”和下面的用法展示视频：其中夸克支持“#作者”指定作者搜索，这种方式得到的书籍与普通搜索最大的不同在于，借助了夸克官方的数据直接获取相关作者的书籍，然后从链接到的结果页中筛选出小说网站重定向过去直接观看。
@@ -72,12 +87,12 @@
 - **书源仓库：** http://yck.mumuceo.com
 - **公众号（开源阅读）：** legado-top
 
-## 一介书生大佬主页：https://gitee.com/YiJieSS/Yuedu
+一介书生大佬主页：https://gitee.com/YiJieSS/Yuedu
 
-## Namo大佬主页：https://gitee.com/namofree/yuedu3
+Namo大佬主页：https://gitee.com/namofree/yuedu3
 
-## 一程丶大佬主页：https://gitee.com/vpq/yd
+一程丶大佬主页：https://gitee.com/vpq/yd
 
-## 南笙星辰大佬主页：https://gitee.com/ch4nge/readbook
+南笙星辰大佬主页：https://gitee.com/ch4nge/readbook
 ---
 ## 💡  温馨提示
