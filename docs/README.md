@@ -21,46 +21,46 @@
 
 - 全网榜单数据：两个择其一导入 源自于同一网站不同排版 不同大佬制作：https://gitee.com/zoeybai/read/raw/Xiaobai/bangdan.json
 
-- Namo（基础精简带净化）：
+- Namo（基础精简带净化）
 <br/>[ 👉点我一键导入](yuedu://booksource/importonline?src=https://gitee.com/namofree/yuedu3/raw/legado3booksource/legado3_booksource_by_Namo.json)
 
-- 一介书生（集合150分类准确）：
+- 一介书生（集合150分类准确）
 <br/>[ 👉点我一键导入](yuedu://booksource/importonline?src=https://gitee.com/YiJieSS/Yuedu/raw/master/bookSource.json)
 
-- 一程丶（酷安大佬488源）：
+- 一程丶（酷安大佬488源）
 <br/>[ 👉点我一键导入](yuedu://booksource/importonline?src=https://gitee.com/vpq/codes/ez5qu1ifx260layps3b7981/raw?blob_name=3.0sy.json)
 
-- 狼火霸世（酷安大佬439源）：
+- 狼火霸世（酷安大佬439源）
 <br/>[ 👉点我一键导入](yuedu://booksource/importonline?src=https://gedoor.github.io/MyBookshelf/bookSource.json)
 
-- 狼火霸世（酷安大佬1537源）：
+- 狼火霸世（酷安大佬1537源）
 <br/>[ 👉点我一键导入](yuedu://booksource/importonline?src=https://cdn.jsdelivr.net/gh/yeyulingfeng01/yuedu.github.io@1.1/202003.txt)
 
-- 狼火霸世（酷安大佬717源）：
+- 狼火霸世（酷安大佬717源）
 <br/>[ 👉点我一键导入](yuedu://booksource/importonline?src=https://cdn.jsdelivr.net/gh/yeyulingfeng01/yuedu.github.io/yeudu3.0-202005.json)
 
-- 南笙星辰（八月精简177源）：
+- 南笙星辰（八月精简177源）
 <br/>[ 👉点我一键导入](yuedu://booksource/importonline?src=https://gitee.com/ch4nge/readbook/raw/master/booksoure)
 
-- 南笙星辰（九月维护177源）：
+- 南笙星辰（九月维护177源）
 <br/>[ 👉点我一键导入](yuedu://booksource/importonline?src=https://gitee.com/ch4nge/readbook/raw/master/booksource9)
 
-- 关耳大佬（酷安大佬听歌源）：
+- 关耳大佬（酷安大佬听歌源）
 <br/>[ 👉点我一键导入](yuedu://booksource/importonline?src=https://gitee.com/zmn1307617161/booksource/raw/master/%E4%B9%A6%E6%BA%90/3%E4%B8%AA%E9%9F%B3%E4%B9%90%E6%BA%90.json)
 
-- 山高水长(微信圈子整理废卢书源)：
+- 山高水长(微信圈子整理废卢书源)
 <br/>[ 👉点我一键导入](yuedu://booksource/importonline?src=https://gitee.com/ch4nge/readbook/raw/master/booksource_fl)
 
-- 渡边美波（精选优质28源合集）：
+- 渡边美波（精选优质28源合集）
 <br/>[ 👉点我一键导入](yuedu://booksource/importonline?src=https://gitee.com/ch4nge/readbook/raw/master/booksource_jx)
 
-- 狼火霸世（精选优质合集 2.0 3.0都可以用）：
+- 狼火霸世（精选优质合集 2.0 3.0都可以用）
 <br/>[ 👉点我一键导入](yuedu://booksource/importonline?src=https://gitee.com/ch4nge/readbook/raw/master/booksource_lhbs)
 
-- 破冰6(有声书源22合集)：
+- 破冰6(有声书源22合集)
 <br/>[ 👉点我一键导入](yuedu://booksource/importonline?src=https://gitee.com/ch4nge/readbook/raw/master/booksources_ts)
 
-- 南笙星辰（2020.12.7更新177源）：
+- 南笙星辰（2020.12.7更新177源）
 <br/>[ 👉点我一键导入](yuedu://booksource/importonline?src=https://gitee.com/ch4nge/readbook/raw/master/booksource_177)
 ---
 ### 重点书源
@@ -84,15 +84,11 @@
 - **软件开源地址：** https://github.com/gedoor/legado
 - **官方下载地址：** https://github.com/gedoor/legado/releases
 - **网站挂了吗？：** https://gualemang.com
-- **书源仓库：** http://yck.mumuceo.com
-- **公众号（开源阅读）：** legado-top
-
-一介书生大佬主页：https://gitee.com/YiJieSS/Yuedu
-
-Namo大佬主页：https://gitee.com/namofree/yuedu3
-
-一程丶大佬主页：https://gitee.com/vpq/yd
-
-南笙星辰大佬主页：https://gitee.com/ch4nge/readbook
+- **书源仓库** http://yck.mumuceo.com
+- **公众号（开源阅读）** legado-top
+- **一介书生大佬主页** https://gitee.com/YiJieSS/Yuedu
+- **Namo大佬主页** https://gitee.com/namofree/yuedu3
+- **一程丶大佬主页** https://gitee.com/vpq/yd
+- **南笙星辰大佬主页** https://gitee.com/ch4nge/readbook
 ---
 ## 💡  温馨提示
