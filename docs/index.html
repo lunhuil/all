@@ -11,8 +11,14 @@
   <script>
     window.$docsify = {
       //...
+      // parse twemoji
+hook.doneEach(function() {
+    twemoji.parse(document);
+});
     }
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+  <!-- twemoji -->
+  <script src="cdn.jsdelivr.net/gh/TaQini/docsify-twemoji@master/twemoji.min.js"></script>
 </body>
 </html>
