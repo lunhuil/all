@@ -1,17 +1,16 @@
 ------------
 # 📖 阅读APP相关资源
-##  :fa-th-list: 内容介绍
+##  📢 内容介绍
 
  阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
-------------
+---
 ##  💡 信息来源
 
 以下信息来源 @开源阅读 公众号 @[子莫丶留白](https://gitee.com/zoeybai) @网络
-------------
+---
 ### 💡 导入教程
 在阅读app-我的-书源管理-网络导入。（大佬的集合随时间而更新 导入地址不变）
 
-------------
 
 @不世玄奇 大佬整合的失效书源修复合集，主要是针对芜恙、狼火霸世、关耳等数个大佬之前分享的精选书源中 全失效/半失效 的书源进行修复更新。
 [👉点我一键导入](yuedu://booksource/importonline?src=https://gitee.com/ch4nge/readbook/raw/master/booksources_sx)
@@ -45,7 +44,7 @@
 - 破冰6(有声书源22合集)：[ 👉点我一键导入](yuedu://booksource/importonline?src=https://gitee.com/ch4nge/readbook/raw/master/booksources_ts)
 
 - 南笙星辰（2020.12.7更新177源）：[ 👉点我一键导入](yuedu://booksource/importonline?src=https://gitee.com/ch4nge/readbook/raw/master/booksource_177)
-
+---
 ##重点书源
 
 - 不是玄奇（搜索引擎书源）：[ 👉点我一键导入](yuedu://booksource/importonline?src=https://gitee.com/no-mystery/bushixuanqi-quanwangsoushu/raw/master/%E5%85%A8%E7%BD%91%E6%90%9C%E4%B9%A6(%E7%99%BE%E5%BA%A6%E3%80%81%E8%B0%B7%E6%AD%8C%E3%80%81%E5%A4%B8%E5%85%8B).json)
@@ -59,7 +58,7 @@
 7、不仅可以搜书，还可以搜漫画，书中净化规则特意避开了img标签，净化的同时不会破坏图片显示。
 8、单页文章自动构造目录：也就是说，当某个文章中不存在目录时，自动为将构造目录，从而可以浏览没有目录的单页网页，此点可用来看新闻，浏览网页
 
-
+---
 ##  💡 相关导航
 
 - **软件下载地址：** https://www.coolapk.com/apk/256030
@@ -76,5 +75,5 @@
 ## 一程丶大佬主页：https://gitee.com/vpq/yd
 
 ## 南笙星辰大佬主页：https://gitee.com/ch4nge/readbook
-
+---
 ## 💡  温馨提示
