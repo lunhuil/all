@@ -15,8 +15,14 @@
       loadSidebar: true,
       maxLevel: 3,
       subMaxLevel: 3,
+      externalLinkTarget: '_self', // default: '_blank'
       requestHeaders: {
-       'cache-control': 'max-age=0',
+       'cache-control': 'max-age=10',
+    },
+      formatUpdated: '{MM}/{DD} {HH}:{mm}',
+        formatUpdated: function(time) {
+    // ...
+   return time;
     },
     }
   </script>
