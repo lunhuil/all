@@ -6,6 +6,10 @@
   <meta charset="UTF-8">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/vue.css">
 </head>
+<link
+  rel="stylesheet"
+  href="//cdn.jsdelivr.net/npm/docsify-dark-mode@latest/dist/style.min.css"
+/>
 <body>
   <div id="app"></div>
   <script>
@@ -25,9 +29,23 @@
               appKey: '7JbmK9n9ipj0qS6DM5qOYwws',
               // docPath: 'hash', //default to `hash` ,or you can choose `full`
           },
+          //夜间模式
+          {
+  dark: {
+    background: "#1c2022",
+    toggleBtnBg: "#34495e",
+    textColor: "#b4b4b4"
+  },
+  light: {
+    background: "white",
+    toggleBtnBg: "var(--theme-color)",
+    textColor: "var(--theme-color)"
+  }
+},
     }
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-dark-mode@latest/dist/index.min.js"></script>
   <!-- 代码复制 -->
   <script src="//cdn.jsdelivr.net/npm/docsify-copy-code"></script>
 
