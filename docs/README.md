@@ -81,15 +81,15 @@
 ---
 ##  💡 相关导航
 
-- **软件下载地址：** https://www.coolapk.com/apk/256030
-- **软件开源地址：** https://github.com/gedoor/legado
-- **官方下载地址：** https://github.com/gedoor/legado/releases
-- **网站挂了吗？：** https://gualemang.com
-- **书源仓库** http://yck.mumuceo.com
-- **公众号（开源阅读）** legado-top
-- **一介书生大佬主页** https://gitee.com/YiJieSS/Yuedu
-- **Namo大佬主页** https://gitee.com/namofree/yuedu3
-- **一程丶大佬主页** https://gitee.com/vpq/yd
-- **南笙星辰大佬主页** https://gitee.com/ch4nge/readbook
+- **软件下载地址：** <br/>https://www.coolapk.com/apk/256030
+- **软件开源地址：** <br/>https://github.com/gedoor/legado
+- **官方下载地址：** <br/>https://github.com/gedoor/legado/releases
+- **网站挂了吗？：** <br/>https://gualemang.com
+- **书源仓库** <br/>http://yck.mumuceo.com
+- **公众号** <br/>（开源阅读）legado-top
+- **一介书生大佬主页** <br/>https://gitee.com/YiJieSS/Yuedu
+- **Namo大佬主页** <br/>https://gitee.com/namofree/yuedu3
+- **一程丶大佬主页** <br/>https://gitee.com/vpq/yd
+- **南笙星辰大佬主页** <br/>https://gitee.com/ch4nge/readbook
 ---
 ## 💡  温馨提示
