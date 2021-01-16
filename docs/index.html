@@ -15,20 +15,24 @@
       loadSidebar: true,
       maxLevel: 3,
       subMaxLevel: 3,
-      externalLinkTarget: '_self', // default: '_blank'
+      externalLinkTarget: '_blank', // default: '_self'
       requestHeaders: {
        'cache-control': 'max-age=10',
     },
-      formatUpdated: '{MM}/{DD} {HH}:{mm}',
-        formatUpdated: function(time) {
-    // ...
-   return time;
-    },
+      // docsify-valine (defaults)
+          Valine: {
+              appId: '8uIsJa37VRW7iJdeYMaMSaW5-MdYXbMMI',
+              appKey: '7JbmK9n9ipj0qS6DM5qOYwws',
+              // docPath: 'hash', //default to `hash` ,or you can choose `full`
+          }
     }
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
   <!-- 代码复制 -->
   <script src="//cdn.jsdelivr.net/npm/docsify-copy-code"></script>
+
+  <script src='//unpkg.com/valine/dist/Valine.min.js'></script>
+  <script src="//unpkg.com/docsify-valine/dist/docsify-valine.min.js"></script>
   <!-- emoji -->
   <!--<script src="//cdn.jsdelivr.net/gh/TaQini/docsify-twemoji@master/twemoji.min.js"></script>-->
   <!--<script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>-->
