@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <meta charset="UTF-8">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/vue.css">
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-dark-mode@latest/dist/style.min.css">
+  <!-- 夜间模式 <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-dark-mode@latest/dist/style.min.css">-->
 </head>
 <body>
   <div id="app"></div>
@@ -20,8 +20,6 @@
       requestHeaders: {
        'cache-control': 'max-age=0',
     },
-     // your docsify configuration
-  themeColor: "#42b983", // this is the default 'vue' color
       // docsify-valine (defaults)
           Valine: {
               appId: '8uIsJa37VRW7iJdeYMaMSaW5-MdYXbMMI',
@@ -31,13 +29,15 @@
     }
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
-  <script src="//cdn.jsdelivr.net/npm/docsify-dark-mode@latest/dist/index.min.js"></script>
+  <!-- 夜间模式<script src="//cdn.jsdelivr.net/npm/docsify-dark-mode@latest/dist/index.min.js"></script>-->
   <!-- 代码复制 -->
   <script src="//cdn.jsdelivr.net/npm/docsify-copy-code"></script>
 
+  <!-- 评论 -->
   <script src='//cdn.jsdelivr.net/npm/valine/dist/Valine.min.js'></script>
   <script src="//cdn.jsdelivr.net/npm/docsify-valine/dist/docsify-valine.min.js"></script>
- <!-- emoji -->
+
+  <!-- emoji -->
   <!--<script src="//cdn.jsdelivr.net/gh/TaQini/docsify-twemoji@master/twemoji.min.js"></script>-->
   <!--<script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>-->
 </body>
