@@ -20,8 +20,10 @@
 - @不世玄奇 大佬整合的失效书源修复合集，主要是针对芜恙、狼火霸世、关耳等数个大佬之前分享的精选书源中 全失效/半失效 的书源进行修复更新。
 <br/>[👉点我一键导入](yuedu://booksource/importonline?src=https://gitee.com/ch4nge/readbook/raw/master/booksources_sx)
 
-- 全网榜单数据：两个择其一导入 源自于同一网站不同排版 不同大佬制作：https://gitee.com/zoeybai/read/raw/Xiaobai/bangdan.json
-
+- 全网榜单数据：两个择其一导入 源自于同一网站不同排版 不同大佬制作：
+```
+https://gitee.com/zoeybai/read/raw/Xiaobai/bangdan.json
+```
 - Namo（基础精简带净化）
 <br/>[ 👉点我一键导入](yuedu://booksource/importonline?src=https://gitee.com/namofree/yuedu3/raw/legado3booksource/legado3_booksource_by_Namo.json)
 
@@ -82,9 +84,15 @@
 ---
 ## 替换净化
 
-- [乌云V3](yuedu://rulesource/importonline?src=https://gitee.com/lunhuil/all/raw/master/file/Wuyun-V3-20.11.11)
-- [乌云V3Lite](yuedu://source/importonline?src=https://gitee.com/lunhuil/all/raw/master/file/Wuyun-V3Lite-20.11.23)
+- [乌云V3]
+```
+https://gitee.com/lunhuil/all/raw/master/file/Wuyun-V3-20.11.11
+```
 
+- [乌云V3Lite]
+```
+https://gitee.com/lunhuil/all/raw/master/file/Wuyun-V3Lite-20.11.23
+```
 ---
 ##  💡 相关导航
 
@@ -99,4 +107,4 @@
 - **一程丶大佬主页** <br/>https://gitee.com/vpq/yd
 - **南笙星辰大佬主页** <br/>https://gitee.com/ch4nge/readbook
 ---
-## 💡  温馨提示 **粗体** 
+## 💡  温馨提示 
