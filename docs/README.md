@@ -82,8 +82,8 @@
 ---
 ## 替换净化
 
-- [乌云V3](yuedu://replacerulesource/importonline?src=https://gitee.com/lunhuil/all/raw/master/file/Wuyun-V3-20.11.11)
-- [乌云V3Lite](yuedu://replacesource/importonline?src=https://gitee.com/lunhuil/all/raw/master/file/Wuyun-V3Lite-20.11.23)
+- [乌云V3](yuedu://rulesource/importonline?src=https://gitee.com/lunhuil/all/raw/master/file/Wuyun-V3-20.11.11)
+- [乌云V3Lite](yuedu://source/importonline?src=https://gitee.com/lunhuil/all/raw/master/file/Wuyun-V3Lite-20.11.23)
 
 ---
 ##  💡 相关导航
