@@ -15,7 +15,8 @@
 ## 💡 导入教程
 在阅读APP-我的-书源管理-网络导入。
 （大佬的集合随时间而更新 导入地址不变）
-
+---
+## 书源
 - @不世玄奇 大佬整合的失效书源修复合集，主要是针对芜恙、狼火霸世、关耳等数个大佬之前分享的精选书源中 全失效/半失效 的书源进行修复更新。
 <br/>[👉点我一键导入](yuedu://booksource/importonline?src=https://gitee.com/ch4nge/readbook/raw/master/booksources_sx)
 
@@ -78,6 +79,11 @@
    - 7、不仅可以搜书，还可以搜漫画，书中净化规则特意避开了img标签，净化的同时不会破坏图片显示。
    - 8、单页文章自动构造目录：也就是说，当某个文章中不存在目录时，自动为将构造目录，从而可以浏览没有目录的单页网页，此点可用来看新闻，浏览网页
 
+---
+## 替换净化
+
+[乌云V3](yuedu://booksource/importonline?src=https://gitee.com/lunhuil/all/raw/master/file/Wuyun-V3-20.11.11)
+[乌云V3Lite](yuedu://booksource/importonline?src=https://gitee.com/lunhuil/all/raw/master/file/Wuyun-V3Lite-20.11.23)
 ---
 ##  💡 相关导航
 
