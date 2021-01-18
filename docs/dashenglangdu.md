@@ -75,3 +75,79 @@
 -  "Serious"/*严肃*/
 -  "Empathy"/*同情的*/
 
+---
+## 风格合集
+## 晓晓-助理 
+```
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="https://www.w3.org/2001/mstts" xml:lang="zh-CN"><voice name="zh-CN-XiaoxiaoNeural"><prosody rate="${(rate-100)?c}%" pitch="${(pitch-100)?c}%"><mstts:express-as style="Assistant" styledegree="2">${text}</mstts:express-as></prosody></voice></speak>
+```
+---
+## 晓晓-聊天室 
+```
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="https://www.w3.org/2001/mstts" xml:lang="zh-CN"><voice name="zh-CN-XiaoxiaoNeural"><prosody rate="${(rate-100)?c}%" pitch="${(pitch-100)?c}%"><mstts:express-as style="Chat" styledegree="2">${text}</mstts:express-as></prosody></voice></speak>
+```
+---
+## 晓晓-客户服务 
+```
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="https://www.w3.org/2001/mstts" xml:lang="zh-CN"><voice name="zh-CN-XiaoxiaoNeural"><prosody rate="${(rate-100)?c}%" pitch="${(pitch-100)?c}%"><mstts:express-as style="CustomerService" styledegree="2">${text}</mstts:express-as></prosody></voice></speak>
+```
+---
+## 晓晓-新闻广播 
+```
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="https://www.w3.org/2001/mstts" xml:lang="zh-CN"><voice name="zh-CN-XiaoxiaoNeural"><prosody rate="${(rate-100)?c}%" pitch="${(pitch-100)?c}%"><mstts:express-as style="Newscast" styledegree="2">${text}</mstts:express-as></prosody></voice></speak>
+```
+---
+## 晓晓-深情的
+```
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="https://www.w3.org/2001/mstts" xml:lang="zh-CN"><voice name="zh-CN-XiaoxiaoNeural"><prosody rate="${(rate-100)?c}%" pitch="${(pitch-100)?c}%"><mstts:express-as style="Affectionate" styledegree="2">${text}</mstts:express-as></prosody></voice></speak>
+```
+---
+## 晓晓-愤怒的
+```
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="https://www.w3.org/2001/mstts" xml:lang="zh-CN"><voice name="zh-CN-XiaoxiaoNeural"><prosody rate="${(rate-100)?c}%" pitch="${(pitch-100)?c}%"><mstts:express-as style="Angry" styledegree="2">${text}</mstts:express-as></prosody></voice></speak>
+```
+---
+## 晓晓-冷静的
+```
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="https://www.w3.org/2001/mstts" xml:lang="zh-CN"><voice name="zh-CN-XiaoxiaoNeural"><prosody rate="${(rate-100)?c}%" pitch="${(pitch-100)?c}%"><mstts:express-as style="Calm" styledegree="2">${text}</mstts:express-as></prosody></voice></speak>
+```
+---
+## 晓晓-愉快的
+```
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="https://www.w3.org/2001/mstts" xml:lang="zh-CN"><voice name="zh-CN-XiaoxiaoNeural"><prosody rate="${(rate-100)?c}%" pitch="${(pitch-100)?c}%"><mstts:express-as style="Cheerful" styledegree="2">${text}</mstts:express-as></prosody></voice></speak>
+```
+---
+## 晓晓-不满的
+```
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="https://www.w3.org/2001/mstts" xml:lang="zh-CN"><voice name="zh-CN-XiaoxiaoNeural"><prosody rate="${(rate-100)?c}%" pitch="${(pitch-100)?c}%"><mstts:express-as style="Disgruntled" styledegree="2">${text}</mstts:express-as></prosody></voice></speak>
+```
+---
+## 晓晓-恐惧的
+```
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="https://www.w3.org/2001/mstts" xml:lang="zh-CN"><voice name="zh-CN-XiaoxiaoNeural"><prosody rate="${(rate-100)?c}%" pitch="${(pitch-100)?c}%"><mstts:express-as style="Fearful" styledegree="2">${text}</mstts:express-as></prosody></voice></speak>
+```
+---
+## 晓晓-温和的
+```
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="https://www.w3.org/2001/mstts" xml:lang="zh-CN"><voice name="zh-CN-XiaoxiaoNeural"><prosody rate="${(rate-100)?c}%" pitch="${(pitch-100)?c}%"><mstts:express-as style="Gentle" styledegree="2">${text}</mstts:express-as></prosody></voice></speak>
+```
+---
+## 晓晓-抒情的
+```
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="https://www.w3.org/2001/mstts" xml:lang="zh-CN"><voice name="zh-CN-XiaoxiaoNeural"><prosody rate="${(rate-100)?c}%" pitch="${(pitch-100)?c}%"><mstts:express-as style="Lyrical" styledegree="2">${text}</mstts:express-as></prosody></voice></speak>
+```
+---
+## 晓晓-悲伤的
+```
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="https://www.w3.org/2001/mstts" xml:lang="zh-CN"><voice name="zh-CN-XiaoxiaoNeural"><prosody rate="${(rate-100)?c}%" pitch="${(pitch-100)?c}%"><mstts:express-as style="Sad" styledegree="2">${text}</mstts:express-as></prosody></voice></speak>
+```
+---
+## 晓晓-严肃的
+```
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="https://www.w3.org/2001/mstts" xml:lang="zh-CN"><voice name="zh-CN-XiaoxiaoNeural"><prosody rate="${(rate-100)?c}%" pitch="${(pitch-100)?c}%"><mstts:express-as style="Serious" styledegree="2">${text}</mstts:express-as></prosody></voice></speak>
+```
+---
+## 晓晓-同情的
+```
+<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="https://www.w3.org/2001/mstts" xml:lang="zh-CN"><voice name="zh-CN-XiaoxiaoNeural"><prosody rate="${(rate-100)?c}%" pitch="${(pitch-100)?c}%"><mstts:express-as style="Empathy" styledegree="2">${text}</mstts:express-as></prosody></voice></speak>
+```
