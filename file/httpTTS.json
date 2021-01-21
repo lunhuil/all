@@ -1,0 +1,402 @@
+[
+  {
+    "id": -1,
+    "name": "度丫丫",
+    "url": "http://tsn.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=4&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=301&vol=5&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "id": -2,
+    "name": "度博文①",
+    "url": "http://tsn.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=106&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=301&vol=5&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "id": -3,
+    "name": "度博文②",
+    "url": "http://tsn.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=4106&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=301&vol=5&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "id": -4,
+    "name": "度博文③",
+    "url": "http://tsn.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=5106&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=301&vol=5&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "id": -5,
+    "name": "度小娇",
+    "url": "http://tsn.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=5&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=301&vol=5&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "id": -6,
+    "name": "度小宇",
+    "url": "http://tsn.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=1&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=301&vol=5&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "id": -7,
+    "name": "度小童",
+    "url": "http://tsn.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=110&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=301&vol=5&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "id": -8,
+    "name": "度小美",
+    "url": "http://tsn.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=0&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=301&vol=5&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "id": -9,
+    "name": "度小萌",
+    "url": "http://tsn.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=111&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=301&vol=5&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "id": -10,
+    "name": "度小鹿①",
+    "url": "http://tsn.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=4118&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=301&vol=5&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "id": -11,
+    "name": "度小鹿②",
+    "url": "http://tsn.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=5118&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=301&vol=5&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "id": -12,
+    "name": "度小鹿③",
+    "url": "http://tsn.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=4119&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=301&vol=5&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "id": -13,
+    "name": "度米朵①",
+    "url": "http://tsn.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=103&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=301&vol=5&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "id": -14,
+    "name": "度米朵②",
+    "url": "http://tsn.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=4103&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=301&vol=5&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "id": -15,
+    "name": "度逍遥-基础",
+    "url": "http://tts.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=3&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=301&vol=5&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "id": -16,
+    "name": "度逍遥-精品①",
+    "url": "http://tsn.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=4003&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=301&vol=5&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "id": -17,
+    "name": "度逍遥-精品②",
+    "url": "http://tsn.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=5003&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=301&vol=15&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "id": 1610995366319,
+    "name": "微软晓晓",
+    "url": "http://tools.litcc.com/tts?informant=xiaoxiao&style=Narration&rate= {{speakSpeed / 5 }}&text={{encodeURIComponent(speakText)}}"
+  },
+  {
+    "id": -18,
+    "name": "情感女声",
+    "url": "http://tsn.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=4105&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=301&vol=5&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "id": -19,
+    "name": "情感男声",
+    "url": "http://tsn.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=4115&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=301&vol=5&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "id": -20,
+    "name": "标准女声",
+    "url": "http://tsn.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=4100&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=1&vol=5&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "id": -21,
+    "name": "标准男声",
+    "url": "http://tsn.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=4121&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=301&vol=5&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "id": -22,
+    "name": "治愈女声",
+    "url": "http://tsn.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=5120&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=301&vol=5&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "id": -23,
+    "name": "治愈男声",
+    "url": "http://tsn.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=5121&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=301&vol=5&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "id": -24,
+    "name": "甜美女声①",
+    "url": "http://tsn.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=4117&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=301&vol=5&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "id": -25,
+    "name": "甜美女声②",
+    "url": "http://tsn.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=5117&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=301&vol=5&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+    "id": -26,
+    "name": "百度主持",
+    "url": "http://tts.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=9&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=301&vol=5&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+     "id": -27,
+    "name": "百度评书①",
+    "url": "http://tts.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=6&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=301&vol=5&pit=5&_res_tag_=audio\"\n}"
+  },
+  {
+     "id": -28,
+    "name": "百度评书②",
+    "url": "http://tsn.baidu.com/text2audio,{\n    \"method\": \"POST\",\n    \"body\": \"tex={{java.encodeURI(java.encodeURI(speakText))}}&spd={{(speakSpeed + 5) / 10 + 4}}&per=4114&cuid=baidu_speech_demo&idx=1&cod=2&lan=zh&ctp=1&pdt=301&vol=5&pit=5&_res_tag_=audio\"\n}"
+  },
+{
+	"id": -29,
+	"name": "小云-标准女声",
+	"url": "<js>eval(''+java.ajax('https://cdn.jsdelivr.net/gh/Celeter/build/.github/scripts/ttsDemo.js'));ttsDemo(speakText,speakSpeed,'Xiaoyun')</js>"
+}, 
+{
+	"id": -30,
+	"name": "小刚-标准男声",
+	"url": "<js>eval(''+java.ajax('https://cdn.jsdelivr.net/gh/Celeter/build/.github/scripts/ttsDemo.js'));ttsDemo(speakText,speakSpeed,'Xiaogang')</js>"
+}, 
+{
+	"id": -31,
+	"name": "若兮-温柔女声",
+	"url": "<js>eval(''+java.ajax('https://cdn.jsdelivr.net/gh/Celeter/build/.github/scripts/ttsDemo.js'));ttsDemo(speakText,speakSpeed,'Ruoxi')</js>"
+}, 
+{
+	"id": -32,
+	"name": "思琪-温柔女声",
+	"url": "<js>eval(''+java.ajax('https://cdn.jsdelivr.net/gh/Celeter/build/.github/scripts/ttsDemo.js'));ttsDemo(speakText,speakSpeed,'Siqi')</js>"
+}, 
+{
+	"id": -33,
+	"name": "思佳-标准女声",
+	"url": "<js>eval(''+java.ajax('https://cdn.jsdelivr.net/gh/Celeter/build/.github/scripts/ttsDemo.js'));ttsDemo(speakText,speakSpeed,'Sijia')</js>"
+}, 
+{
+	"id": -34,
+	"name": "思诚-标准男声",
+	"url": "<js>eval(''+java.ajax('https://cdn.jsdelivr.net/gh/Celeter/build/.github/scripts/ttsDemo.js'));ttsDemo(speakText,speakSpeed,'Sicheng')</js>"
+}, 
+{
+	"id": -35,
+	"name": "艾琪-温柔女声",
+	"url": "<js>eval(''+java.ajax('https://cdn.jsdelivr.net/gh/Celeter/build/.github/scripts/ttsDemo.js'));ttsDemo(speakText,speakSpeed,'Aiqi')</js>"
+}, 
+{
+	"id": -36,
+	"name": "艾佳-标准女声",
+	"url": "<js>eval(''+java.ajax('https://cdn.jsdelivr.net/gh/Celeter/build/.github/scripts/ttsDemo.js'));ttsDemo(speakText,speakSpeed,'Aijia')</js>"
+}, 
+{
+	"id": -37,
+	"name": "艾诚-标准男声",
+	"url": "<js>eval(''+java.ajax('https://cdn.jsdelivr.net/gh/Celeter/build/.github/scripts/ttsDemo.js'));ttsDemo(speakText,speakSpeed,'Aicheng')</js>"
+}, 
+{
+	"id": -38,
+	"name": "艾达-标准男声",
+	"url": "<js>eval(''+java.ajax('https://cdn.jsdelivr.net/gh/Celeter/build/.github/scripts/ttsDemo.js'));ttsDemo(speakText,speakSpeed,'Aida')</js>"
+}, 
+{
+	"id": -39,
+	"name": "宁儿-标准女声",
+	"url": "<js>eval(''+java.ajax('https://cdn.jsdelivr.net/gh/Celeter/build/.github/scripts/ttsDemo.js'));ttsDemo(speakText,speakSpeed,'Ninger')</js>"
+}, 
+{
+	"id": -40,
+	"name": "瑞琳-标准女声",
+	"url": "<js>eval(''+java.ajax('https://cdn.jsdelivr.net/gh/Celeter/build/.github/scripts/ttsDemo.js'));ttsDemo(speakText,speakSpeed,'Ruilin')</js>"
+}, 
+{
+	"id": -41,
+	"name": "思悦-温柔女声",
+	"url": "<js>eval(''+java.ajax('https://cdn.jsdelivr.net/gh/Celeter/build/.github/scripts/ttsDemo.js'));ttsDemo(speakText,speakSpeed,'Siyue')</js>"
+}, 
+{
+	"id": -42,
+	"name": "艾雅-严厉女声",
+	"url": "<js>eval(''+java.ajax('https://cdn.jsdelivr.net/gh/Celeter/build/.github/scripts/ttsDemo.js'));ttsDemo(speakText,speakSpeed,'Aiya')</js>"
+}, 
+{
+	"id": -43,
+	"name": "艾夏-亲和女声",
+	"url": "<js>eval(''+java.ajax('https://cdn.jsdelivr.net/gh/Celeter/build/.github/scripts/ttsDemo.js'));ttsDemo(speakText,speakSpeed,'Aixia')</js>"
+}, 
+{
+	"id": -44,
+	"name": "艾美-甜美女声",
+	"url": "<js>eval(''+java.ajax('https://cdn.jsdelivr.net/gh/Celeter/build/.github/scripts/ttsDemo.js'));ttsDemo(speakText,speakSpeed,'Aimei')</js>"
+}, 
+{
+	"id": -45,
+	"name": "艾雨-自然女声",
+	"url": "<js>eval(''+java.ajax('https://cdn.jsdelivr.net/gh/Celeter/build/.github/scripts/ttsDemo.js'));ttsDemo(speakText,speakSpeed,'Aiyu')</js>"
+}, 
+{
+	"id": -46,
+	"name": "艾悦-温柔女声",
+	"url": "<js>eval(''+java.ajax('https://cdn.jsdelivr.net/gh/Celeter/build/.github/scripts/ttsDemo.js'));ttsDemo(speakText,speakSpeed,'Aiyue')</js>"
+}, 
+{
+	"id": -47,
+	"name": "艾婧-严厉女声",
+	"url": "<js>eval(''+java.ajax('https://cdn.jsdelivr.net/gh/Celeter/build/.github/scripts/ttsDemo.js'));ttsDemo(speakText,speakSpeed,'Aijing')</js>"
+}, 
+{
+	"id": -48,
+	"name": "小美-甜美女声",
+	"url": "<js>eval(''+java.ajax('https://cdn.jsdelivr.net/gh/Celeter/build/.github/scripts/ttsDemo.js'));ttsDemo(speakText,speakSpeed,'Xiaomei')</js>"
+}, 
+{
+	"id": -49,
+	"name": "艾娜-浙普女声",
+	"url": "<js>eval(''+java.ajax('https://cdn.jsdelivr.net/gh/Celeter/build/.github/scripts/ttsDemo.js'));ttsDemo(speakText,speakSpeed,'Aina')</js>"
+}, 
+{
+	"id": -50,
+	"name": "伊娜-浙普女声",
+	"url": "<js>eval(''+java.ajax('https://cdn.jsdelivr.net/gh/Celeter/build/.github/scripts/ttsDemo.js'));ttsDemo(speakText,speakSpeed,'Yina')</js>"
+}, 
+{
+	"id": -51,
+	"name": "思婧-严厉女声",
+	"url": "<js>eval(''+java.ajax('https://cdn.jsdelivr.net/gh/Celeter/build/.github/scripts/ttsDemo.js'));ttsDemo(speakText,speakSpeed,'Sijing')</js>"
+}, 
+{
+	"id": -52,
+	"name": "思彤-儿童音",
+	"url": "<js>eval(''+java.ajax('https://cdn.jsdelivr.net/gh/Celeter/build/.github/scripts/ttsDemo.js'));ttsDemo(speakText,speakSpeed,'Sitong')</js>"
+}, 
+{
+	"id": -53,
+	"name": "小北-萝莉女声",
+	"url": "<js>eval(''+java.ajax('https://cdn.jsdelivr.net/gh/Celeter/build/.github/scripts/ttsDemo.js'));ttsDemo(speakText,speakSpeed,'Xiaobei')</js>"
+}, 
+{
+	"id": -54,
+	"name": "艾彤-儿童音",
+	"url": "<js>eval(''+java.ajax('https://cdn.jsdelivr.net/gh/Celeter/build/.github/scripts/ttsDemo.js'));ttsDemo(speakText,speakSpeed,'Aitong')</js>"
+}, 
+{
+	"id": -55,
+	"name": "艾薇-萝莉女声",
+	"url": "<js>eval(''+java.ajax('https://cdn.jsdelivr.net/gh/Celeter/build/.github/scripts/ttsDemo.js'));ttsDemo(speakText,speakSpeed,'Aiwei')</js>"
+}, 
+{
+	"id": -56,
+	"name": "艾宝-萝莉女声",
+	"url": "<js>eval(''+java.ajax('https://cdn.jsdelivr.net/gh/Celeter/build/.github/scripts/ttsDemo.js'));ttsDemo(speakText,speakSpeed,'Aibao')</js>"
+}, 
+{
+	"id": -57,
+	"name": "姗姗-粤语女声",
+	"url": "<js>eval(''+java.ajax('https://cdn.jsdelivr.net/gh/Celeter/build/.github/scripts/ttsDemo.js'));ttsDemo(speakText,speakSpeed,'Shanshan')</js>"
+}, 
+{
+	"id": -58,
+	"name": "艾媛-知心姐姐",
+	"url": "<js>eval(''+java.ajax('https://cdn.jsdelivr.net/gh/Celeter/build/.github/scripts/ttsDemo.js'));ttsDemo(speakText,speakSpeed,'Aiyuan')</js>"
+}, 
+{
+	"id": -59,
+	"name": "艾颖-软萌童声",
+	"url": "<js>eval(''+java.ajax('https://cdn.jsdelivr.net/gh/Celeter/build/.github/scripts/ttsDemo.js'));ttsDemo(speakText,speakSpeed,'Aiying')</js>"
+}, 
+{
+	"id": -60,
+	"name": "艾祥-磁性男声",
+	"url": "<js>eval(''+java.ajax('https://cdn.jsdelivr.net/gh/Celeter/build/.github/scripts/ttsDemo.js'));ttsDemo(speakText,speakSpeed,'Aixiang')</js>"
+}, 
+{
+	"id": -61,
+	"name": "艾墨-情感男声",
+	"url": "<js>eval(''+java.ajax('https://cdn.jsdelivr.net/gh/Celeter/build/.github/scripts/ttsDemo.js'));ttsDemo(speakText,speakSpeed,'Aimo')</js>"
+}, 
+{
+	"id": -62,
+	"name": "艾晔-青年男声",
+	"url": "<js>eval(''+java.ajax('https://cdn.jsdelivr.net/gh/Celeter/build/.github/scripts/ttsDemo.js'));ttsDemo(speakText,speakSpeed,'Aiye')</js>"
+}, 
+{
+	"id": -63,
+	"name": "艾婷-电台女声",
+	"url": "<js>eval(''+java.ajax('https://cdn.jsdelivr.net/gh/Celeter/build/.github/scripts/ttsDemo.js'));ttsDemo(speakText,speakSpeed,'Aiting')</js>"
+}, 
+{
+	"id": -64,
+	"name": "艾凡-情感女声",
+	"url": "<js>eval(''+java.ajax('https://cdn.jsdelivr.net/gh/Celeter/build/.github/scripts/ttsDemo.js'));ttsDemo(speakText,speakSpeed,'Aifan')</js>"
+}, 
+{
+	"id": -65,
+	"name": "Lydia-英中双语女声",
+	"url": "<js>eval(''+java.ajax('https://cdn.jsdelivr.net/gh/Celeter/build/.github/scripts/ttsDemo.js'));ttsDemo(speakText,speakSpeed,'Lydia')</js>"
+}, 
+{
+	"id": -66,
+	"name": "小玥-四川话女声",
+	"url": "<js>eval(''+java.ajax('https://cdn.jsdelivr.net/gh/Celeter/build/.github/scripts/ttsDemo.js'));ttsDemo(speakText,speakSpeed,'chuangirl')</js>"
+}, 
+{
+	"id": -67,
+	"name": "艾硕-自然男声",
+	"url": "<js>eval(''+java.ajax('https://cdn.jsdelivr.net/gh/Celeter/build/.github/scripts/ttsDemo.js'));ttsDemo(speakText,speakSpeed,'Aishuo')</js>"
+}, 
+{
+	"id": -68,
+	"name": "艾德-新闻男声",
+	"url": "<js>eval(''+java.ajax('https://cdn.jsdelivr.net/gh/Celeter/build/.github/scripts/ttsDemo.js'));ttsDemo(speakText,speakSpeed,'Aide')</js>"
+}, 
+{
+	"id": -69,
+	"name": "青青-台湾话女声",
+	"url": "<js>eval(''+java.ajax('https://cdn.jsdelivr.net/gh/Celeter/build/.github/scripts/ttsDemo.js'));ttsDemo(speakText,speakSpeed,'Qingqing')</js>"
+}, 
+{
+	"id": -70,
+	"name": "翠姐-东北话女声",
+	"url": "<js>eval(''+java.ajax('https://cdn.jsdelivr.net/gh/Celeter/build/.github/scripts/ttsDemo.js'));ttsDemo(speakText,speakSpeed,'Cuijie')</js>"
+}, 
+{
+	"id": -71,
+	"name": "小泽-湖南重口音男声",
+	"url": "<js>eval(''+java.ajax('https://cdn.jsdelivr.net/gh/Celeter/build/.github/scripts/ttsDemo.js'));ttsDemo(speakText,speakSpeed,'Xiaoze')</js>"
+}, 
+{
+	"id": -72,
+	"name": "艾楠-广告男声",
+	"url": "<js>eval(''+java.ajax('https://cdn.jsdelivr.net/gh/Celeter/build/.github/scripts/ttsDemo.js'));ttsDemo(speakText,speakSpeed,'Ainan')</js>"
+}, 
+{
+	"id": -73,
+	"name": "艾浩-资讯男声",
+	"url": "<js>eval(''+java.ajax('https://cdn.jsdelivr.net/gh/Celeter/build/.github/scripts/ttsDemo.js'));ttsDemo(speakText,speakSpeed,'Aihao')</js>"
+}, 
+{
+	"id": -74,
+	"name": "艾茗-诙谐男声",
+	"url": "<js>eval(''+java.ajax('https://cdn.jsdelivr.net/gh/Celeter/build/.github/scripts/ttsDemo.js'));ttsDemo(speakText,speakSpeed,'Aiming')</js>"
+}, 
+{
+	"id": -75,
+	"name": "艾笑-资讯女声",
+	"url": "<js>eval(''+java.ajax('https://cdn.jsdelivr.net/gh/Celeter/build/.github/scripts/ttsDemo.js'));ttsDemo(speakText,speakSpeed,'Aixiao')</js>"
+}, 
+{
+	"id": -76,
+	"name": "艾厨-舌尖男声",
+	"url": "<js>eval(''+java.ajax('https://cdn.jsdelivr.net/gh/Celeter/build/.github/scripts/ttsDemo.js'));ttsDemo(speakText,speakSpeed,'Aichu')</js>"
+}, 
+{
+	"id": -77,
+	"name": "艾倩-资讯女声",
+	"url": "<js>eval(''+java.ajax('https://cdn.jsdelivr.net/gh/Celeter/build/.github/scripts/ttsDemo.js'));ttsDemo(speakText,speakSpeed,'Aiqian')</js>"
+}, 
+{
+	"id": -78,
+	"name": "艾树-资讯男声",
+	"url": "<js>eval(''+java.ajax('https://cdn.jsdelivr.net/gh/Celeter/build/.github/scripts/ttsDemo.js'));ttsDemo(speakText,speakSpeed,'Aishu')</js>"
+}, 
+{
+	"id": -79,
+	"name": "艾茹-新闻女声",
+	"url": "<js>eval(''+java.ajax('https://cdn.jsdelivr.net/gh/Celeter/build/.github/scripts/ttsDemo.js'));ttsDemo(speakText,speakSpeed,'Airu')</js>"
+}
+]
