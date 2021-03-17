@@ -54,9 +54,8 @@
 <br/>[ 👉点我一键导入](yuedu://booksource/importonline?src=https://cdn.jsdelivr.net/gh/lunhuil/shuyuan@0.1/pobing210310.json)
 
 - 全网榜单数据：两个择其一导入 源自于同一网站不同排版 不同大佬制作：
-```
-https://gitee.com/zoeybai/read/raw/Xiaobai/bangdan.json
-```
+<br/>[ 👉点我一键导入](yuedu://booksource/importonline?src=https://gitee.com/zoeybai/read/raw/Xiaobai/bangdan.json)
+
 ---
 ## 替换净化
 
